@@ -10,7 +10,7 @@ Dependencies:
 
 [Choropleths with Geopandas and Folium.](http://nbviewer.jupyter.org/github/dovinmu/python-viz-notebooks/blob/master/choropleths.ipynb) Mapping Internet usage by country.
 
-![Choropleth of Internet usage by country](data/internet_choropleth_geopandas.png)
+![Choropleth of Internet usage by country](data/internet_choropleth_geopandas_cropped.png)
 
 For the libraries that output Javascript (Folium, Bokeh, Altair, sometimes Plotly), I link the [Notebook Viewer](http://nbviewer.jupyter.org/github/dovinmu/python-viz-notebooks/tree/master/) page for this repository.
 
