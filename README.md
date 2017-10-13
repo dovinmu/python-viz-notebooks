@@ -8,9 +8,13 @@ Dependencies:
 
 ![Heat map of the United States coffee shops](data/coffeeshops_heatmap_folium_cropped.png)
 
+[Bar charts comparison.](https://github.com/dovinmu/python-viz-notebooks/blob/master/bar_charts.ipynb) How easy is it to make a humble bar chart using different Python visualization modules?
+
 [Choropleths with Geopandas and Folium.](http://nbviewer.jupyter.org/github/dovinmu/python-viz-notebooks/blob/master/choropleths.ipynb) Mapping Internet usage by country.
 
 ![Choropleth of Internet usage by country](data/internet_choropleth_geopandas_cropped.png)
+
+[Geographic projection comparison.](http://nbviewer.jupyter.org/github/dovinmu/python-viz-notebooks/blob/master/map_projections.ipynb) How easy is it to make a map projection with different Python spatial-aware modules? 
 
 For the libraries that output Javascript (Folium, Bokeh, Altair, sometimes Plotly), I link the [Notebook Viewer](http://nbviewer.jupyter.org/github/dovinmu/python-viz-notebooks/tree/master/) page for this repository.
 
