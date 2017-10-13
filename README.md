@@ -14,13 +14,15 @@ Dependencies:
 
 For the libraries that output Javascript (Folium, Bokeh, Altair, sometimes Plotly), I link the [Notebook Viewer](http://nbviewer.jupyter.org/github/dovinmu/python-viz-notebooks/tree/master/) page for this repository.
 
-Tools I'm exploring:
- * Matplotlib
- * pandas
- * Bokeh
- * Plot.ly
- * Seaborn
- * holoviews
- * datashader
- * Altair
- * Basemap
+Tools exploring:
+  * Matplotlib
+  * pandas
+  * Bokeh
+  * Seaborn
+  * Basemap
+
+Not yet explored:
+  * datashader
+  * Plot.ly
+  * holoviews
+  * Altair
