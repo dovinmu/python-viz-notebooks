@@ -14,7 +14,11 @@ Dependencies:
 
 ![Choropleth of Internet usage by country](data/internet_choropleth_geopandas_cropped.png)
 
-[Geographic projection comparison.](http://nbviewer.jupyter.org/github/dovinmu/python-viz-notebooks/blob/master/map_projections.ipynb) How easy is it to make a map projection with different Python spatial-aware modules? 
+[Geographic projection comparison.](http://nbviewer.jupyter.org/github/dovinmu/python-viz-notebooks/blob/master/map_projections.ipynb) How easy is it to make a map projection with different Python spatial-aware modules?
+
+[Styling maps with Geopandas and matplotlib.](https://github.com/dovinmu/python-viz-notebooks/blob/master/stylized_fantasy_maps.ipynb) Making a fantasy-style map of Middle Earth.
+
+![Middle Earth map](images/middle_earth.png)
 
 For the libraries that output Javascript (Folium, Bokeh, Altair, sometimes Plotly), I link the [Notebook Viewer](http://nbviewer.jupyter.org/github/dovinmu/python-viz-notebooks/tree/master/) page for this repository.
 
